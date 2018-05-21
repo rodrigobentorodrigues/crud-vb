@@ -1,0 +1,10 @@
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\softec\documents\visual studio 2013\Projects\Banco de Dados\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
